@@ -1,0 +1,5 @@
+CONN_STRING='[Full Azure storage connection string]'
+SHARE_NAME='[Name of Azure share]'
+FILE_PATH='[Path/file name on share]'
+LOCAL_FILE='[Local path/file]'
+LOGFILE='log.txt'
